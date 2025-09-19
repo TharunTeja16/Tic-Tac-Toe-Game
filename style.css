@@ -1,0 +1,22 @@
+*{
+    margin:auto;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: #88996e;
+    text-align: center;
+}
+.container{
+    width:100%;
+    height: 100%;
+}
+.game-board{
+    height:60vmin;
+    width: 60vmin;
+}
+.box{
+    width:18vmin;
+    height:18vmin;
+}
